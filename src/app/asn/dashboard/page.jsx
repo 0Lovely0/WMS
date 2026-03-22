@@ -6,7 +6,6 @@ import Efficiency from "@/components/Inbound/EfficiencyChart";
 import Rejectedgrn from "@/components/Inbound/Rejectedgrn";
 import Cards from "@/components/Inbound/GrnPutawaydetailscards";
 import PageNavigation from "../../Components/PageNavigation";
-import Loader from "../../Components/Loader";
 import StopEvents from "@/components/StopEvents"
 export default function Inbound() {
   return (

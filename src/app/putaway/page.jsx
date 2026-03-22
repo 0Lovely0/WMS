@@ -1,10 +1,10 @@
 "use client";
 import React from "react";
-import Linechart from "../../Components/Putaway/Linechart";
-import Speedometer from "../../Components/Putaway/Speedometer";
-import Cards from "../../Components/Putaway/Cards";
-import PutawayTable from "../../Components/Putaway/PutawayTable";
-import PageNavigation from "../../Components/PageNavigation";
+import Linechart from "../../components/Putaway/Linechart";
+import Speedometer from "../../components/Putaway/Speedometer";
+import Cards from "../../components/Putaway/Cards";
+import PutawayTable from "../../components/Putaway/PutawayTable";
+import PageNavigation from "../../components/PageNavigation";
 import StopEvents from "@/components/StopEvents";
 
 // Main Component

@@ -1,12 +1,10 @@
 "use client";
-import Areachart from "../../Components/Grn/Areachart";
-import TimingTable from "../../Components/Grn/TimingTable";
-import Cards from "../../Components/Grn/Cards";
-import MainTable from "../../Components/Grn/MainTable";
-import PageNavigation from "../../Components/PageNavigation";
+import Areachart from "../../components/Grn/Areachart";
+import TimingTable from "../../components/Grn/TimingTable";
+import Cards from "../../components/Grn/Cards";
+import MainTable from "../../components/Grn/MainTable";
+import PageNavigation from "../../components/PageNavigation";
 import StopEvents from "@/components/StopEvents";
-import Loader from "../../Components/Loader";
-
 // Main Component
 export default function GRNDashboard() {
   return (
