@@ -5,7 +5,7 @@ import HighLow from "@/components/Inbound/HighestLowestWork";
 import Efficiency from "@/components/Inbound/EfficiencyChart";
 import Rejectedgrn from "@/components/Inbound/Rejectedgrn";
 import Cards from "@/components/Inbound/GrnPutawaydetailscards";
-import PageNavigation from "../../Components/PageNavigation";
+import PageNavigation from "../../components/PageNavigation";
 import StopEvents from "@/components/StopEvents"
 export default function Inbound() {
   return (
